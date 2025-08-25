@@ -1,0 +1,26 @@
+# PHP
+*.log
+*.tmp
+*.cache
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive configuration (uncomment if you want to exclude database config)
+# config/database.php
+
+# Vendor dependencies (if using Composer)
+vendor/
+
+# User uploads (if any)
+uploads/
+
+# Session files
+sessions/
